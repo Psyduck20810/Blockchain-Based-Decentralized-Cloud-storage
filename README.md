@@ -79,6 +79,3 @@ Start a workspace. Note the RPC URL (e.g., http://127.0.0.1:7545) and accounts.
    Now your MetaMask is connected to your local test network and funded with test ETH!
 #   B l o c k c h a i n - B a s e d - D e c e n t r a l i z e d - C l o u d - s t o r a g e 
  
- #   B l o c k c h a i n - B a s e d - D e c e n t r a l i z e d - C l o u d - s t o r a g e 
- 
- 
