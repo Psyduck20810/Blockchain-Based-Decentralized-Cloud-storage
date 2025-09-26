@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Path: client/src/index.css */
+/* .App{
+  background: rgb(119,13,31);
+background: radial-gradient(circle, rgba(119,13,31,1) 35%, rgba(77,10,28,1) 57%, rgba(36,11,54,1) 100%);
+  min-height: 100vh;
+  
+} */
